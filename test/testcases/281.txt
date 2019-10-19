@@ -1,0 +1,7 @@
+int x,y,z[100];
+            int[] func(int a[],int b[]){
+                z[x[3]+y[5]] = foo(x[3+x])[10+x];
+                m= a[b[3]];
+                boolean b;
+            }
+        

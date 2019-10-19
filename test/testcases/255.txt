@@ -1,0 +1,9 @@
+void main(){
+            do  x=x+2;
+                {
+                    getInt();
+                    if(x!=0) return true;
+                }
+                x=x%2;
+            while (x<10&&x>6);
+        }

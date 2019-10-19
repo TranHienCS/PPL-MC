@@ -1,0 +1,4 @@
+void main(){
+            putString("abc\n");
+            func1(a,b[5])[6+x[3]];
+        }

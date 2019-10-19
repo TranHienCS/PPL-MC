@@ -1,0 +1,1 @@
+Program([VarDecl(Id(str),StringType),VarDecl(Id(a2D),ArrayType(StringType,IntLiteral(4))),VarDecl(Id(arr),StringType),VarDecl(Id(brr),StringType),VarDecl(Id(arr2D),StringType),VarDecl(Id(arr3D),ArrayType(StringType,IntLiteral(5))),VarDecl(Id(isTrue),StringType),VarDecl(Id(isFact),StringType)])

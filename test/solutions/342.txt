@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],VoidType,Block([CallExpr(Id(foo),[Id(arr),Id(iNum),Id(max),Id(min)])]))])

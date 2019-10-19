@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],VoidType,Block([VarDecl(Id(i),IntType),CallExpr(Id(ramdon),[Id(i)]),If(BinaryOp(>,Id(i),IntLiteral(10)),Block([Break()]),Block([CallExpr(Id(println),[Id(i)]),CallExpr(Id(goto),[CallExpr(Id(ramdon),[Id(i)])])])),Return()]))])

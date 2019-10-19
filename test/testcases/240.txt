@@ -1,0 +1,4 @@
+int i[3];
+                i[3]=3;
+                void func(string a[],float f){
+                }

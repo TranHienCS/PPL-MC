@@ -1,0 +1,3 @@
+int abc[3];
+            float a,b,c;
+        

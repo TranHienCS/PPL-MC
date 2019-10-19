@@ -1,0 +1,6 @@
+int i[3];
+                int func(string a[],float f){
+                    int i,j,k[10];
+                    g = (i+1)/(j+2)*5-k[4];
+                    return g;
+                }

@@ -1,0 +1,8 @@
+void main(){
+            if(true){
+                if(a)
+                    x=y;
+                }
+            else
+                b=a;
+        }

@@ -1,0 +1,6 @@
+void main(){
+            do  x=x+2;
+                do x=x*2;
+                while(true);
+            while (x<10&&x>6);
+        }

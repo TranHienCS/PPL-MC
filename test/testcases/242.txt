@@ -1,0 +1,11 @@
+boolean a;
+                void func(boolean b){
+                    b=false;
+                    a=b;
+                }
+                void main(){
+                    boolean x;
+                    x=true;
+                    func(x);
+                    putBool(a);
+                }

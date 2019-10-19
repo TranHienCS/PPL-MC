@@ -1,0 +1,13 @@
+void main(){
+            if(true){
+                    if(false){
+                        x=y;
+                        a=b;
+                    }
+                    else b=b-1;
+                }
+            else
+                {b=a;
+                putInLn(10);
+                }
+        }

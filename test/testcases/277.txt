@@ -1,0 +1,12 @@
+int main(){
+            do 
+                i=getInt();
+                {
+                    for(i;i<n;i=i+1){
+                        dosomething(i);
+                        return 0;
+                    }
+                    break;
+                }
+                while(i<10);
+        }

@@ -1,0 +1,6 @@
+int main(){
+          for(i=0;i<iNum;i=i+2){
+              foo(a[3]);
+              max(a[3],b[3]);
+          }
+        }

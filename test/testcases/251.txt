@@ -1,0 +1,7 @@
+void main(){
+            if(x!=3&&x / 2 ==0)
+                if(x % 6==0||x/9==5)
+                    break;
+                else break;
+            else return;
+        }

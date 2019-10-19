@@ -1,0 +1,17 @@
+float foo(){
+                    if (a<b)
+                      a=a+1;
+                    else
+                      a-1;
+                    }
+                    boolean check(){
+                    if(a>x)
+                      return a;
+                    else
+                      return x;
+                  }
+                void main(){
+                do a = 1;
+                while arr[arr[2+x]] == arr[arr[3+y]];
+                }
+                

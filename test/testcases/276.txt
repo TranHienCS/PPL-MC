@@ -1,0 +1,13 @@
+void main(){
+            {
+                int a;
+                float b;
+                putFloat(a+b);
+                {
+                    int x;
+                    int y;
+                    putInt(x+y);
+                }
+            }
+            
+        }

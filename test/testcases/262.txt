@@ -1,0 +1,10 @@
+void main(){
+            for(i=1;i<10;i=i+2){
+                swap(x,y);
+                foo(3)[5]=func(3,i+1);
+            }
+        }
+        void swap(int x,int y){
+                x=y;
+                y=x;
+            }

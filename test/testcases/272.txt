@@ -1,0 +1,7 @@
+int main(){
+            int a,b[3],c;
+            a=b;
+            foo(a,b);
+            100;
+            c+2;
+        }

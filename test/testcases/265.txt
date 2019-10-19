@@ -1,0 +1,5 @@
+int[] foo(int a[],float b){
+            for(i=1;cond;stm){
+                if(i>5) break;
+            }
+        }

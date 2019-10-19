@@ -1,0 +1,7 @@
+void main(){
+            for(a;b;c)
+                for(x;y;z){
+                    do x();
+                    while(x);
+                }
+        }

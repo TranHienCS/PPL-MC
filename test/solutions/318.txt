@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],IntType,Block([])),FuncDecl(Id(getText),[],StringType,Block([])),FuncDecl(Id(isEmptyString),[],BoolType,Block([])),FuncDecl(Id(isRealNumber),[],FloatType,Block([]))])

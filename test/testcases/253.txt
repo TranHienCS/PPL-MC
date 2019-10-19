@@ -1,0 +1,5 @@
+void main(){
+            do x=x+2;
+                getInt();
+            while x<10;
+        }

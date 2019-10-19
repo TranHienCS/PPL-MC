@@ -1,0 +1,5 @@
+int i,j,k[4];
+                void func(string a[],float f){
+                    i =10;
+                    return foo(2)[i+3];
+                }

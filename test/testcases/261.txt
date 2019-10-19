@@ -1,0 +1,8 @@
+void main(){
+            for(a;b;c)
+                for(x;y;z){
+                    for(1;2;3){
+                        getInt();
+                    }
+                }
+        }

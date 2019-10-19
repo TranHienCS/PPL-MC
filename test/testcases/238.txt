@@ -1,0 +1,6 @@
+int i,j,k[4];
+                void func(string a[],float f){
+                    i =10;
+                    k[3]=func(x*2);
+                    return foo(2)[i+3];
+                }

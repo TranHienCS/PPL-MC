@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(getSum),[VarDecl(Id(Sum),ArrayTypePointer(IntType))],IntType,Block([])),FuncDecl(Id(getText),[VarDecl(Id(arr),ArrayTypePointer(StringType))],StringType,Block([])),FuncDecl(Id(isEmptyString),[VarDecl(Id(arr),ArrayTypePointer(StringType))],BoolType,Block([])),FuncDecl(Id(isRealNumber),[VarDecl(Id(fNum),ArrayTypePointer(FloatType))],FloatType,Block([]))])

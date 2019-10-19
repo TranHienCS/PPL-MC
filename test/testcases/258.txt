@@ -1,0 +1,4 @@
+void main(){
+            for(i=1;true;i=i+1)
+                putInt(1);
+        }

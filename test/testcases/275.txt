@@ -1,0 +1,6 @@
+int func(int a[]){
+            for(i=0;i<n;i=i+1){
+                putInt(i);
+                break;
+            }
+        }

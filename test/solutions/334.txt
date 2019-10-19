@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],VoidType,Block([])),VarDecl(Id(max_size),IntType),FuncDecl(Id(foo),[],IntType,Block([])),VarDecl(Id(iNum),IntType),VarDecl(Id(str),StringType),VarDecl(Id(isTrue),BoolType),FuncDecl(Id(maxStr),[VarDecl(Id(str),StringType)],IntType,Block([]))])

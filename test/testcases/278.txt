@@ -1,0 +1,17 @@
+
+        string s,d,k[3];
+        int main(){
+            do {
+                s=getString();
+                putStringLn(s+d);
+            }
+            {
+                int a,b,c;
+                c=a+b;
+                {
+                    a=a+b;
+                    putInt(a);
+                }
+            }
+            while(true);
+        }

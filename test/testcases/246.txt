@@ -1,0 +1,6 @@
+void main(){
+            if(true)
+                a=b;
+            else
+                b=a;
+        }

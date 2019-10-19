@@ -1,0 +1,10 @@
+float main(){
+            do
+                a = 1;
+                b = true;
+                {
+                    foo(3,2);
+                    a = arr[2];
+                }
+            while(a);
+        }

@@ -1,0 +1,8 @@
+void main(){
+                x = foo(3)[10];
+            }
+            int[] foo(int a){
+                int k;
+                k= a*a;
+                return a;
+            }

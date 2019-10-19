@@ -1,0 +1,14 @@
+void foo(){
+            int i, k[1]; float j[10];
+            i = k[j[10]];
+        }
+        void foo ( int i ) {
+            int i,j,k[5];
+            i = (j + i) /(j + k[arr[1]]) + 123123;
+            i = i + subFunc(true);
+        }
+                void main(){
+                do a = 1;
+                while arr[arr[2]] == arr[arr[3]];
+                }
+                

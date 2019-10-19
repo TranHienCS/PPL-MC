@@ -1,0 +1,5 @@
+int i[3];
+                void func(string a[],float f){
+                    func(i[4]*2);
+                    return a[5];
+                }

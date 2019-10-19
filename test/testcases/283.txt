@@ -1,0 +1,21 @@
+void foo(){
+            int i, k[1]; float j[10];
+            i = k[j[10]];
+            xyz = false;
+            if(bl = false)
+              xyz = true;
+            else
+              xyz = false;
+            return 0;
+        }
+        int func(int par1, float par2){
+            if (a != 1)
+              continue;
+            else
+              break;
+        }
+                void main(){
+                do a = 1;
+                while arr[arr[2]] == arr[arr[3]];
+                }
+                

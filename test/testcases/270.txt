@@ -1,0 +1,3 @@
+int func(float b){
+            return func(b+2);
+        }
